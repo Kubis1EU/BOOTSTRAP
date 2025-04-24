@@ -1,0 +1,68 @@
+body {
+  background-color: #0d1117;
+  color: #f5c518;
+}
+
+.navbar {
+  background-color: #0d1117;
+  border-bottom: 1px solid #f5c518;
+}
+
+.navbar-brand {
+  color: #f5c518;
+  font-weight: bold;
+}
+
+.navbar-brand:hover {
+  color: #c49f1c;
+}
+
+.form-container {
+  background-color: #161b22;
+  padding: 2rem;
+  border-radius: 1rem;
+  max-width: 600px;
+  margin: 2rem auto;
+}
+
+.form-control,
+.form-select {
+  background-color: #0d1117;
+  color: #f5c518;
+  border: 1px solid #f5c518;
+}
+
+.form-label,
+.form-check-label,
+.form-text {
+  color: #f5c518;
+}
+
+.btn-outline-warning {
+  border-color: #f5c518;
+  color: #f5c518;
+}
+
+.btn-outline-warning:hover {
+  background-color: #f5c518;
+  color: #0d1117;
+}
+
+.toggle-buttons {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.form-section {
+  display: none;
+}
+
+.form-section.active {
+  display: block;
+}
+
+h2 {
+  text-align: center;
+  color: #f5c518;
+  margin-bottom: 1.5rem;
+}/*# sourceMappingURL=style.css.map */
